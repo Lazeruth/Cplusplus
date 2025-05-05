@@ -1,0 +1,3 @@
+﻿  CornerGrocerSalesFrequency.cpp
+C:\Users\lazer\source\repos\CornerGrocer\CornerGrocerSalesFrequency.cpp(33,7): warning C4101: 'frequency': unreferenced local variable
+  CornerGrocer.vcxproj -> C:\Users\lazer\source\repos\CornerGrocer\x64\Debug\CornerGrocer.exe
